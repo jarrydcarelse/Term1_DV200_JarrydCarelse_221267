@@ -45,7 +45,7 @@ Term 1 Project readMe file with Demo Video
 * [Conclusion](#conclusion)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+
 
 <!--PROJECT DESCRIPTION-->
 
@@ -92,11 +92,13 @@ Run the following in the command-line to install all the required dependencies:
    npm install
   
 <!-- FEATURES AND FUNCTIONALITY-->
-![Alt text](<img width="1680" alt="Screenshot 2023-11-08 at 5 13 18 PM (2)" src="https://github.com/jarrydcarelse/Term1_DV200_JarrydCarelse_221267/assets/113914450/cb19152c-1b45-49e4-9e77-950e051067ba">)
+![Alt text](chart.jpg
+)
 ### The section where one can select two cars and compare them side by side.
 
 Description of Feature
-![Alt text](<img width="1680" alt="Screenshot 2023-11-08 at 5 13 21 PM (2)" src="https://github.com/jarrydcarelse/Term1_DV200_JarrydCarelse_221267/assets/113914450/0cb215c6-a5c1-4926-ad76-13e1853ca00d">)
+![Alt text](compare.jpg
+)
 ### Using Chart.js you can select a car you would like to view information on and it gives you the information in a form of a line chart.
 
 Description of Feature
