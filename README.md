@@ -1,7 +1,5 @@
 # Term1_DV200_JarrydCarelse_221267
 Term 1 Project readMe file with Demo Video
-<!-- HEADER SECTION -->[AUtomatch.pdf](https://github.com/jarrydcarelse/Term1_DV200_JarrydCarelse_221267/files/13297967/AUtomatch.pdf)
-
 ![Alt text](Untitled.png)
 <h5 align="center" style="padding:0;margin:0;">Jarryd Carelse</h5>
 <h5 align="center" style="padding:0;margin:0;">221267</h5>
@@ -58,9 +56,13 @@ AutoMatch is an intuitive website that lets you compare two cars simultaneously.
 
 ### Built With
 
-* [Technology Name](path/to/technology/website)
-* [Technology Name](path/to/technology/website)
-* [Technology Name](path/to/technology/website)
+* VS Code
+* React.js
+* Javascript
+* Css
+* Chart.js
+* Bootstrap
+* Figma
 
 <!-- GETTING STARTED -->
 <!-- Make sure to add appropriate information about what prerequesite technologies the user would need and also the steps to install your project on their own mashines -->
@@ -88,48 +90,47 @@ Run the following in the command-line to clone the project:
 Run the following in the command-line to install all the required dependencies:
    ```sh
    npm install
-   ```
-
-4. Get a free API Key at [https://example.com](https://example.com) and enter it in the `config.js` file:
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
+  
 <!-- FEATURES AND FUNCTIONALITY-->
-<!-- You can add the links to all of your imagery at the bottom of the file as references -->
-## Features and Functionality
+![Alt text](<img width="1680" alt="Screenshot 2023-11-08 at 5 13 18 PM (2)" src="https://github.com/jarrydcarelse/Term1_DV200_JarrydCarelse_221267/assets/113914450/cb19152c-1b45-49e4-9e77-950e051067ba">)
+### The section where one can select two cars and compare them side by side.
 
-![image2][image2]
-### Feature 1
+Description of Feature
+![Alt text](<img width="1680" alt="Screenshot 2023-11-08 at 5 13 21 PM (2)" src="https://github.com/jarrydcarelse/Term1_DV200_JarrydCarelse_221267/assets/113914450/0cb215c6-a5c1-4926-ad76-13e1853ca00d">)
+### Using Chart.js you can select a car you would like to view information on and it gives you the information in a form of a line chart.
 
 Description of Feature
 
-![image3][image3]
-### Feature 2
 
-Description of Feature
-
-![image4][image4]
-### Feature 3
-
-Description of Feature
-
-![image5][image5]
-
-### Wireframes
-
-![image7][image7]
-
-<!-- DEVELOPMENT PROCESS -->
 ## Development Process
 
-The `Development Process` is the technical implementations and functionality done in the frontend and backend of the application.
+##Design Phase
+Ideation: I began the project with a brainstorming phase to define the goals, features, and user experience I wanted to achieve with the comparison website. This helped me clarify my project scope and objectives.
+
+Wireframe Design with Figma: Using Figma, I created wireframes and prototypes of the user interface. These wireframes served as a blueprint for the design and layout of the website.
+
+##Development Phase
+Setting Up the React App: I initiated the project by creating a new React application. This provided a solid foundation for building the website.
+
+Implementing Chart.js: To display car comparison data in a visually appealing way, I integrated Chart.js into my React app. Chart.js allowed me to create interactive and dynamic charts to present the information effectively.
+
+API Integration: I connected the application to an API to obtain information about the cars for comparison. This included fetching and processing data from the API to populate the website with relevant car information.
+
+Building the Comparison Features: I implemented features that allow users to select and compare two cars. Users can specify criteria and view the comparison results in the form of charts.
+
+User Interface Development: I translated the wireframes created in Figma into actual components and user interface elements in my React app. This included the design and layout of the website, ensuring it was both visually appealing and user-friendly.
+
+Testing and Debugging: Throughout the development process, I rigorously tested the application to identify and fix any bugs or issues that arose.
 
 #### Challenges
-<!-- stipulated the challenges you faced with the project and why you think you faced it or how you think you'll solve it (if not solved) -->
-* Bugs.
-* Bugs.
+##Challenges Faced
+During the development of this project, I encountered several challenges that required creative problem-solving and perseverance. Here are some of the notable challenges I faced:
+
+*API Integration: Integrating an external API to obtain car comparison data was a complex task. I had to ensure proper API requests, handle responses, and manage data retrieval effectively. Debugging and testing were essential to address issues related to API integration.
+
+*Chart.js Data Integration: Configuring Chart.js to use the data retrieved from the API presented a significant challenge. I had to carefully format and render the data in the charts, ensuring it was presented in a clear and informative manner.
+
+*Responsive Design: Creating a responsive design that worked well on various screen sizes and devices required careful consideration. Ensuring that the website was user-friendly and visually appealing on both desktop and mobile platforms was a continuous challenge.
 
 <!-- MOCKUPS -->
 ## Final Outcome
@@ -150,7 +151,7 @@ To see a run through of the application, click below:
 <!-- AUTHORS -->
 ## Authors
 
-* **Your Name & Surname** - [username](https://github.com/username)
+* **Jarryd Carelse** - [username](https://github.com/username)
 
 <!-- LICENSE -->
 ## License
@@ -160,5 +161,5 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 <!-- LICENSE -->
 ## Contact
 
-* **Your Name & Surname** - [email@address](mailto:email@address) - [@instagram_handle](https://www.instagram.com/instagram_handle/) 
-* **Project Link** - https://github.com/username/projectname
+* **Jarryd Carelse** - [221267@virtualwindow.co.za](mailto:email@address)
+
