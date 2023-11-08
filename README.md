@@ -14,8 +14,9 @@ Term 1 Project readMe file with Demo Video
   <h3 align="center">DV200 Term 1</h3>
 
   <p align="center">
-    Short Project Slogan / Description <br>
-      <a href="https://github.com/username/projectname"><strong>Explore the docs »</strong></a>
+    AutoMatch is an intuitive website that lets you compare two cars simultaneously. It provides comprehensive information and insightful graphs for easy analysis. The timeline feature offers a historical perspective on the cars' evolution. Whether you're a car enthusiast or a potential buyer, Auto Match is a valuable tool for making informed decisions and finding your perfect match.
+ <br>
+    
    <br />
    <br />
    <a href="path/to/demonstration/video">View Demo</a>
@@ -34,24 +35,16 @@ Term 1 Project readMe file with Demo Video
   * [Prerequisites](#prerequisites)
   * [How to install](#how-to-install)
 * [Features and Functionality](#features-and-functionality)
-* [Concept Process](#concept-process)
-   * [Ideation](#ideation)
    * [Wireframes](#wireframes)
-   * [User-flow](#user-flow)
 * [Development Process](#development-process)
    * [Implementation Process](#implementation-process)
         * [Highlights](#highlights)
         * [Challenges](#challenges)
-   * [Reviews and Testing](#peer-reviews)
-        * [Feedback from Reviews](#feedback-from-reviews)
-        * [Unit Tests](#unit-tests)
    * [Future Implementation](#peer-reviews)
 * [Final Outcome](#final-outcome)
     * [Mockups](#mockups)
     * [Video Demonstration](#video-demonstration)
 * [Conclusion](#conclusion)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -60,7 +53,8 @@ Term 1 Project readMe file with Demo Video
 
 ### Project Description
 
-A nice introduction to this amazing project of mine.
+AutoMatch is an intuitive website that lets you compare two cars simultaneously. It provides comprehensive information and insightful graphs for easy analysis. The timeline feature offers a historical perspective on the cars' evolution. Whether you're a car enthusiast or a potential buyer, Auto Match is a valuable tool for making informed decisions and finding your perfect match.
+
 
 ### Built With
 
