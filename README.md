@@ -1,16 +1,14 @@
 # Term1_DV200_JarrydCarelse_221267
 Term 1 Project readMe file with Demo Video
 <!-- HEADER SECTION -->[AUtomatch.pdf](https://github.com/jarrydcarelse/Term1_DV200_JarrydCarelse_221267/files/13297967/AUtomatch.pdf)
-
+![AUtomatch.pdf](https://github.com/jarrydcarelse/Term1_DV200_JarrydCarelse_221267/files/13297967/AUtomatch.pdf]
 <h5 align="center" style="padding:0;margin:0;">Jarryd Carelse</h5>
 <h5 align="center" style="padding:0;margin:0;">221267</h5>
 <h6 align="center">DV200 2023</h6>
 </br>
 <p align="center">
 
-  <a href="">
-    <img src="path/to/logo" alt="Logo" width="140" height="140">
-  </a>
+  
   
   <h3 align="center">DV200 Term 1</h3>
 
