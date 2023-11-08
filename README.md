@@ -92,16 +92,15 @@ Run the following in the command-line to install all the required dependencies:
    npm install
   
 <!-- FEATURES AND FUNCTIONALITY-->
-![Alt text](chart.jpg
+![Alt text](compare.jpg
 )
 ### The section where one can select two cars and compare them side by side.
 
-Description of Feature
-![Alt text](compare.jpg
+
+![Alt text](chart.jpg
 )
 ### Using Chart.js you can select a car you would like to view information on and it gives you the information in a form of a line chart.
 
-Description of Feature
 
 
 ## Development Process
@@ -139,9 +138,11 @@ During the development of this project, I encountered several challenges that re
 
 ### Mockups
 
-![image9][image9]
+![Alt text](compare.jpg
+)
 <br>
-![image10][image10]
+![Alt text](compare.jpg
+)
 
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
@@ -153,7 +154,7 @@ To see a run through of the application, click below:
 <!-- AUTHORS -->
 ## Authors
 
-* **Jarryd Carelse** - [username](https://github.com/username)
+* **Jarryd Carelse** 
 
 <!-- LICENSE -->
 ## License
